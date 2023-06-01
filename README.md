@@ -40,3 +40,10 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+## Checkout live Demo @ https://sprightly-sfogliatella-939476.netlify.app
+
+Thanks to Netlify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a0d45c2d-095a-490b-b2e9-24e6b5de478d/deploy-status)](https://app.netlify.com/sites/sprightly-sfogliatella-939476/deploys)
+

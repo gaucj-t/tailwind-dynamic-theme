@@ -4,21 +4,21 @@
 
 @layer base {
     :root {
-        --weavr-color-base: #e2f3f5;
-        --weavr-color-primary: #22d1ee;
-        --weavr-color-secondary: #3d5af1;
-        --weavr-color-success: #a7ff83;
-        --weavr-color-danger: #ff304f;
-        --weavr-color-warning: #faee1c;
-        --weavr-color-info: #74f9ff;
-        --weavr-color-light: #fdfdfd;
-        --weavr-color-dark: #0e153a;
-        --weavr-font-base: 'Manrope', '"sans-serif"'
+        --xxx-color-base: #e2f3f5;
+        --xxx-color-primary: #22d1ee;
+        --xxx-color-secondary: #3d5af1;
+        --xxx-color-success: #a7ff83;
+        --xxx-color-danger: #ff304f;
+        --xxx-color-warning: #faee1c;
+        --xxx-color-info: #74f9ff;
+        --xxx-color-light: #fdfdfd;
+        --xxx-color-dark: #0e153a;
+        --xxx-font-base: 'Manrope', '"sans-serif"'
    }
 
     html {
         /*font-family: theme('fontFamily.manrope');*/
-        font-family: var(--weavr-font-base);
+        font-family: var(--xxx-font-base);
     }
 }
 

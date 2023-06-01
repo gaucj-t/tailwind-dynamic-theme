@@ -11,18 +11,18 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                'manrope': [ "var(--weavr-font-base)"],
+                'manrope': [ "var(--xxx-font-base)"],
             },
             colors: {
-                "w-base": "var(--weavr-color-base)",
-                "w-primary": "var(--weavr-color-primary)",
-                "w-secondary": "var(--weavr-color-secondary)",
-                "w-success": "var(--weavr-color-success)",
-                "w-danger": "var(--weavr-color-danger)",
-                "w-warning": "var(--weavr-color-warning)",
-                "w-info": "var(--weavr-color-info)",
-                "w-light": "var(--weavr-color-light)",
-                "w-dark": "var(--weavr-color-dark)",
+                "xxx-base": "var(--xxx-color-base)",
+                "xxx-primary": "var(--xxx-color-primary)",
+                "xxx-secondary": "var(--xxx-color-secondary)",
+                "xxx-success": "var(--xxx-color-success)",
+                "xxx-danger": "var(--xxx-color-danger)",
+                "xxx-warning": "var(--xxx-color-warning)",
+                "xxx-info": "var(--xxx-color-info)",
+                "xxx-light": "var(--xxx-color-light)",
+                "xxx-dark": "var(--xxx-color-dark)",
             }
         },
     },
